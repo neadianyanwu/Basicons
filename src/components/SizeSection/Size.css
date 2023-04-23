@@ -1,0 +1,75 @@
+.size-container {
+    /* justify-content: space-between; */
+    /* align-items: 2rem; */
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    /* gap: 2px */
+    margin: 4px;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.size-header {
+    font-size: 18px;
+    font-weight: 400;
+    width: 5vw;
+    display: flex;
+    /* width: 100%; */
+    text-transform: capitalize;
+}
+
+.size-container .label {
+    padding: 0px;
+    margin: 0;
+    list-style: none;
+    display: flex;
+    gap: 0;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.size-container a {
+    /* color: inherit;
+    height: 66%;
+    display: flex;
+    row-gap: 1rem;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    margin: 5px;
+    position: inherit;
+    margin-left: 4px;
+    margin-bottom: 4px;
+    border: 1px solid #444; */
+
+    border-left: 1px solid #444;
+    border-top: 1px solid #444;
+    border-bottom: 1px solid #444;
+    border-right: 1px solid #444;
+    padding: 8px 16px;
+    color: rgba(0,0,0,0.65);
+    font-size: 16px;
+    cursor: pointer;
+    transition: color 0.1s ease-out;
+    /* flex-grow: 1; */
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+}
+
+ul li.active a {
+    background: #444;
+    color: #fff;
+}
+
+/* .hr {
+    position: relative;
+    width: 200%;
+    border-bottom: 1px solid gray;
+} */

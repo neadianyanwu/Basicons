@@ -1,0 +1,33 @@
+.icons {
+  display: grid;
+  /* flex-direction: row; */
+  gap: 8px;
+  margin: 30px;
+  text-align: justify;
+  align-items: center;
+  justify-content: space-between;
+  padding: 32px;
+  grid-template-columns: repeat(6, 1fr);
+}
+
+/* .icons {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 12px;
+} */
+
+.icon-content {
+  padding: 12px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.icon-fontsize {
+  font-size: 8px;
+}
+

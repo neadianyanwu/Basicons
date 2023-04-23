@@ -1,0 +1,11 @@
+.sidebar-container{    
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    width: 35%;
+    height: 100%;
+    /* overflow-y: auto; */
+    /* min-height: 100vh; */
+    /* background-color: #ffcba4; */
+}
+    

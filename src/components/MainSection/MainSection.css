@@ -1,0 +1,17 @@
+.main-section-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65%;
+    height: 100%;
+    /* overflow-y: scroll; */
+    /* min-height: 100vh; */
+    /* background-color: #ff9889; */
+}
+.vertical-line {
+    border-left: 1px solid #dcdcdc;
+    height: 170vh;
+    position: absolute;
+    left: 65%;
+    top: 0;
+}

@@ -1,0 +1,25 @@
+.main-footer {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    flex-direction: row;
+    font-size: 12px;
+    font-weight: 300;
+}
+
+.main-footer-content{
+    display: inline-flex;
+    text-align: center;
+    /* float: right; */
+    margin-left: 20px;
+}
+
+.main-footer-content a {
+    display: contents;
+    font-size: 12px;
+    font-weight: 300;
+    flex-direction: row;
+    
+}

@@ -1,0 +1,108 @@
+.hero .hero-content {
+    width: 68vw;
+    margin: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    gap: 56px;
+}
+
+.hero .hero-content h1 {
+    display: flex;
+    font-size: 45px;
+    font-weight: 300;
+    padding: 6px 8px;
+    line-height: 1.2;
+    width: 57vw;
+    margin-right: 100px;
+}
+
+.hero .hero-content p {
+    font-size: 20px;
+    color: #333;
+    font-weight: 300;
+}
+
+.download-button {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    border: 2px solid;
+    border-radius: 4px;
+    background-color: #333;
+    color: #faf9f6;
+    width: auto;
+    gap: 0.5rem;
+}
+
+.button1 {
+    display: flex;
+    margin-left: 10px;
+    border: 1px solid black;
+    color: wheat;
+    border-radius: 4px;
+    gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px 30px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    letter-spacing: 0.2px;
+}
+
+.button-container {
+    display: flex;
+    margin: auto;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.hero-content .hero .download-button .button1 {
+    flex-direction: column;
+    font-size: 4px;
+    flex-wrap: wrap;
+    margin: 10px 0px;
+}
+
+@media screen and (max-width: 660px) {
+    .hero {
+        width: 100%;
+        padding: 10px 10px;
+        gap: 36px;
+    }
+
+    .button-container {
+        flex-direction: column;
+        width: 100%;
+    }    
+
+    .button-container .download-button, .button-container .button1 {
+        width: 80%;
+        margin-bottom: 20px;
+        padding: 10px 20px;
+    }
+
+    .button-container .download-button {
+        margin-left: 0px;
+
+    }
+
+    .button-container .button1 {
+        margin-right: 0px;
+
+    }
+}

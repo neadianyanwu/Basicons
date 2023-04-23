@@ -1,0 +1,135 @@
+/* .burger-menu {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    height: auto;
+    width: auto;
+    border-radius: 6px;
+    padding-left: 16px;
+}
+
+.nav-links {
+    background-color: #dcdcdc;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.links {
+    font-size: 14px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
+.links a {
+    grid-auto-flow: column;
+    text-align: center;
+    align-items: center;    
+}
+
+.basicons {
+    display: initial;
+}
+
+@media screen and (max-width: 1040px) {
+    .burger-menu {
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+        height: 100vh;
+        background-color: #dcdcdc;
+        position: absolute;
+        top: 0;
+        left: -100%;
+        z-index: -3;
+    }
+
+    .nav-links .links {
+        padding: 10px 0;
+    }
+
+    .nav-links .links a {
+        font-size: 14px;
+    }
+
+    .basicons{
+        display: initial;
+    }
+}
+ */
+
+.menu-container {
+    width: 100%;
+    height: 55vh;
+}
+
+.navbar {
+    width: 300px;
+    height: 100%;
+    background-color: gray;
+    position: sticky;
+    border-radius: 8px;
+    top: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.basicons-menu {
+    /* width: 35%; */
+    height: 30px;
+    top: 50px;
+    right: 50px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.nav-item {
+    text-align: right;
+    margin: 6px;
+}
+
+.nav-link {
+    font-size: 16px;
+    font-weight: 300;
+    color: #333;
+    text-transform: capitalize;
+    /* letter-spacing: 1px; */
+    gap: 20px;
+    position: relative;
+    padding: 3px 0;
+}
+
+.nav-link::before, .nav-link::after {
+    content: "";
+    width: 100%;
+    height: 2px;
+    background-color: #faf9f6;
+    left: 0;
+    position: absolute;
+    transform: scaleX(0);
+    transition: transform 0.5s;
+}
+
+.nav-link::after {
+    bottom: 0;
+    transform-origin: right;
+}
+
+.nav-link::before {
+    top: 0;
+    transform-origin: left;
+
+}
+
+.nav-link:hover::before, .nav-link:hover::after {
+    transform: scaleX(1);
+}
