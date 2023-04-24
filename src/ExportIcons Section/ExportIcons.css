@@ -7,7 +7,7 @@
   align-items: center;
   justify-content: space-between;
   padding: 32px;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(9, 1fr);
 }
 
 /* .icons {
@@ -25,9 +25,21 @@
   justify-content: center;
   align-items: center;
   gap: 8px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
 }
 
 .icon-fontsize {
   font-size: 8px;
 }
 
+.icons-content:hover{
+  border: 2px solid #222;
+  border-radius: 6px;
+  height: 10vh;
+  width: 80%;
+  padding: 10px;
+}

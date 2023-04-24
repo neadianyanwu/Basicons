@@ -11,7 +11,7 @@ import { getSubStringName } from "../../utils";
 
 const NavBar = () => {
 
-  const [svgSize, setSvgSize] =useState('16px');
+  const [svgSize, setSvgSize] =useState('18px');
 
   return (
     <div className="header">
