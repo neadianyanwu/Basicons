@@ -2,12 +2,13 @@
   display: grid;
   /* flex-direction: row; */
   gap: 8px;
-  margin: 30px;
+  margin: 7px;
   text-align: justify;
   align-items: center;
   justify-content: space-between;
-  padding: 32px;
-  grid-template-columns: repeat(9, 1fr);
+  padding: 2px;
+  grid-template-columns: repeat(8, 1fr);
+  
 }
 
 /* .icons {
@@ -17,29 +18,41 @@
   gap: 12px;
 } */
 
-.icon-content {
+.icons-content {
   padding: 12px;
-  background: #fff;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  gap: 8px;
+  /* gap: 8px;
   position: absolute;
   top: 0;
   right: 0;
   bottom: 0;
-  left: 0;
+  left: 0; */
+  /* height: 90%;
+  width: 90%; */
+  border: 2px solid #fff;
+  border-radius: 6px;
 }
 
 .icon-fontsize {
   font-size: 8px;
+  padding-top: 10px;
 }
 
 .icons-content:hover{
   border: 2px solid #222;
   border-radius: 6px;
-  height: 10vh;
+  /* height: 14vh;
   width: 80%;
-  padding: 10px;
+  padding: 12px; */
+}
+
+@media screen and (max-width: 600px) {
+  .icons {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 24px;
+    padding: 24px;
+  }
 }

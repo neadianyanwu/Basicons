@@ -1,4 +1,4 @@
-import "./ExportIcons.css";
+// import "./ExportIcons.css";
 import SvgAccessibilityHandicapDisabilityHandicapWheelchair from "../assets/icons/AccessibilityHandicapDisabilityHandicapWheelchair";
 import SvgAccountSearchUserPerson from "../assets/icons/AccountSearchUserPerson";
 import SvgAccountUserPersonRound from "../assets/icons/AccountUserPersonRound";
@@ -367,252 +367,252 @@ export const SVG_ICONS =[
 
     {
         name: 'AddPlusNewSquareBoxSquare',
-        slug: 'Add-PlusNewSquareBoxSquare',
+        slug: 'Add-Plus-New-Square-Box-Square',
         icon:  SvgAddPlusNewSquareBoxSquare,
         id:    8, 
     },
 
     {
         name: 'AddPlus',
-        slug: 'AddPlus',
+        slug: 'Add-Plus',
         icon:  SvgAddPlus,
         id:    9, 
     },
 
     {
         name: 'AdjustHorizontalSettings',
-        slug: 'AdjustHorizontalSettings',
+        slug: 'Adjust-Horizontal-Settings',
         icon:  SvgAdjustHorizontalSettings,
         id:    10, 
     },
 
     {
         name: 'AdjustVeticalSettings',
-        slug: 'AdjustVeticalSettings',
+        slug: 'Adjust-Vetical-Settings',
         icon:  SvgAdjustVeticalSettings,
         id:    11, 
     },
 
     {
         name: 'AirportPlaneTravel',
-        slug: 'AirportPlaneTravel',
+        slug: 'Airport-Plane-Travel',
         icon:  SvgAirportPlaneTravel,
         id:    12, 
     },
 
     {
         name: 'AlertCirlcleError',
-        slug: 'AlertCirlcleError',
+        slug: 'Alert-Cirlcle-Error',
         icon:  SvgAlertCirlcleError,
         id:    13, 
     },
 
     {
         name: 'AlertError',
-        slug: 'AlertError',
+        slug: 'Alert-Error',
         icon:  SvgAlertError,
         id:    14, 
     },
 
     {
         name: 'AlertOctagonError',
-        slug: 'AlertOctagonError',
+        slug: 'Alert-Octagon-Error',
         icon:  SvgAlertOctagonError,
         id:    15, 
     },
 
     {
         name: 'AlphabetA',
-        slug: 'AlphabetA',
+        slug: 'Alphabet-A',
         icon:  SvgAlphabetA,
         id:    16, 
     },
 
     {
         name: 'AlphabetB',
-        slug: 'AlphabetB',
+        slug: 'Alphabet-B',
         icon:  SvgAlphabetB,
         id:    17, 
     },
 
     {
         name: 'AlphabetC',
-        slug: 'AlphabetC',
+        slug: 'Alphabet-C',
         icon:  SvgAlphabetC,
         id:    18, 
     },
 
     {
         name: 'AlphabetD',
-        slug: 'AlphabetD',
+        slug: 'Alphabet-D',
         icon:  SvgAlphabetD,
         id:    19, 
     },
 
     {
         name: 'AlphabetE',
-        slug: 'AlphabetE',
+        slug: 'Alphabet-E',
         icon:  SvgAlphabetE,
         id:     20, 
     },
 
     {
         name: 'AlphabetF',
-        slug: 'AlphabetF',
+        slug: 'Alphabet-F',
         icon:  SvgAlphabetF,
         id:     21, 
     },
 
     {
         name: 'AlphabetG',
-        slug: 'AlphabetG',
+        slug: 'Alphabet-G',
         icon:  SvgAlphabetG,
         id:     22, 
     },
 
     {
         name: 'AlphabetH',
-        slug: 'AlphabetH',
+        slug: 'Alphabet-H',
         icon:  SvgAlphabetH,
         id:     23, 
     },
 
     {
         name: 'AlphabetI',
-        slug: 'AlphabetI',
+        slug: 'Alphabet-I',
         icon:  SvgAlphabetI,
         id:     24, 
     },
 
     {
         name: 'AlphabetJ',
-        slug: 'AlphabetJ',
+        slug: 'Alphabet-J',
         icon:  SvgAlphabetJ,
         id:     25, 
     },
 
     {
         name: 'AlphabetK',
-        slug: 'AlphabetK',
+        slug: 'Alphabet-K',
         icon:  SvgAlphabetK,
         id:     26, 
     },
 
     {
         name: 'AlphabetL',
-        slug: 'AlphabetL',
+        slug: 'Alphabet-L',
         icon:  SvgAlphabetL,
         id:     27, 
     },
 
     {
         name: 'AlphabetM',
-        slug: 'AlphabetM',
+        slug: 'Alphabet-M',
         icon:  SvgAlphabetM,
         id:     28, 
     },
 
     {
         name: 'AlphabetN',
-        slug: 'AlphabetN',
+        slug: 'Alphabet-N',
         icon:  SvgAlphabetN,
         id:     29, 
     },
 
     {
         name: 'AlphabetO',
-        slug: 'AlphabetO',
+        slug: 'Alphabet-O',
         icon:  SvgAlphabetO,
         id:     30, 
     },
 
     {
         name: 'AlphabetP',
-        slug: 'AlphabetP',
+        slug: 'Alphabet-P',
         icon:  SvgAlphabetP,
         id:     31, 
     },
 
     {
         name: 'AlphabetQ',
-        slug: 'AlphabetQ',
+        slug: 'Alphabet-Q',
         icon:  SvgAlphabetQ,
         id:     32, 
     },
 
     {
         name: 'AlphabetR',
-        slug: 'AlphabetR',
+        slug: 'Alphabet-R',
         icon:  SvgAlphabetR,
         id:     33, 
     },
 
     {
         name: 'AlphabetS',
-        slug: 'AlphabetS',
+        slug: 'Alphabet-S',
         icon:  SvgAlphabetS,
         id:     34, 
     },
 
     {
         name: 'AlphabetT',
-        slug: 'AlphabetT',
+        slug: 'Alphabet-T',
         icon:  SvgAlphabetT,
         id:     35, 
     },
 
     {
         name: 'AlphabetU',
-        slug: 'AlphabetU',
+        slug: 'Alphabet-U',
         icon:  SvgAlphabetU,
         id:     36, 
     },
 
     {
         name: 'AlphabetV',
-        slug: 'AlphabetV',
+        slug: 'Alphabet-V',
         icon:  SvgAlphabetV,
         id:     37, 
     },
 
     {
         name: 'AlphabetW',
-        slug: 'AlphabetW',
+        slug: 'Alphabet-W',
         icon:  SvgAlphabetW,
         id:     38, 
     },
 
     {
         name: 'AlphabetX',
-        slug: 'AlphabetX',
+        slug: 'Alphabet-X',
         icon:  SvgAlphabetX,
         id:     39, 
     },
 
     {
         name: 'AlphabetY',
-        slug: 'AlphabetY',
+        slug: 'Alphabet-Y',
         icon:  SvgAlphabetY,
         id:     40, 
     },
 
     {
         name: 'AlphabetZ',
-        slug: 'AlphabetZ',
+        slug: 'Alphabet-Z',
         icon:  SvgAlphabetZ,
         id:     41, 
     },
 
     {
         name: 'AnalyticsGraphChart',
-        slug: 'AnalyticsGraphChart',
+        slug: 'Analytics-Graph-Chart',
         icon:  SvgAnalyticsGraphChart,
         id:     42, 
     },
 
     {
         name: 'ApiIntegrationConnection',
-        slug: 'ApiIntegrationConnection',
+        slug: 'Api-Integration-Connection',
         icon:  SvgApiIntegrationConnection,
         id:     43, 
     },
@@ -633,91 +633,91 @@ export const SVG_ICONS =[
 
     {
         name: 'ArrowBottomLeft',
-        slug: 'ArrowBottomLeft',
+        slug: 'Arrow-Bottom-Left',
         icon:  SvgArrowBottomLeft,
         id:     46, 
     },
 
     {
         name: 'ArrowBottomRight',
-        slug: 'ArrowBottomRight',
+        slug: 'Arrow-Bottom-Right',
         icon:  SvgArrowBottomRight,
         id:     47, 
     },
 
     {
         name: 'ArrowDown',
-        slug: 'ArrowDown',
+        slug: 'Arrow-Down',
         icon:  SvgArrowDown,
         id:     48, 
     },
 
     {
         name: 'ArrowDropdownCaretSortSelectArrow',
-        slug: 'ArrowDropdownCaretSortSelectArrow',
+        slug: 'Arrow-Dropdown-Caret-Sort-Select-Arrow',
         icon:  SvgArrowDropdownCaretSortSelectArrow,
         id:     49, 
     },
 
     {
         name: 'ArrowLeft',
-        slug: 'ArrowLeft',
+        slug: 'Arrow-Left',
         icon:  SvgArrowLeft,
         id:     50, 
     },
 
     {
         name: 'ArrowRight',
-        slug: 'ArrowRight',
+        slug: 'Arrow-Right',
         icon:  SvgArrowRight,
         id:     51, 
     },
 
     {
         name: 'ArrowTopLeft',
-        slug: 'ArrowTopLeft',
+        slug: 'Arrow-Top-Left',
         icon:  SvgArrowTopLeft,
         id:     52, 
     },
 
     {
         name: 'ArrowTopRight',
-        slug: 'ArrowTopRight',
+        slug: 'Arrow-Top-Right',
         icon:  SvgArrowTopRight,
         id:     53, 
     },
 
     {
         name: 'ArrowUpPushupCaretSortSelectArrow',
-        slug: 'ArrowUpPushupCaretSortSelectArrow',
+        slug: 'Arrow-Up-Pushup-Caret-Sort-Select-Arrow',
         icon:  SvgArrowUpPushupCaretSortSelectArrow,
         id:     54, 
     },
 
     {
         name: 'ArrowUp',
-        slug: 'ArrowUp',
+        slug: 'Arrow-Up',
         icon:  SvgArrowUp,
         id:     55, 
     },
 
     {
         name: 'AsteriskStar',
-        slug: 'AsteriskStar',
+        slug: 'Asterisk-Star',
         icon:  SvgAsteriskStar,
         id:     56, 
     },
 
     {
         name: 'AttachmentClipHook',
-        slug: 'AttachmentClipHook',
+        slug: 'Attachment-Clip-Hook',
         icon:  SvgAttachmentClipHook,
         id:     57, 
     },
 
     {
         name: 'BadgeVerified',
-        slug: 'BadgeVerified',
+        slug: 'Badge-Verified',
         icon:  SvgBadgeVerified,
         id:     58, 
     },
@@ -731,7 +731,7 @@ export const SVG_ICONS =[
 
     {
         name: 'BankFinancial',
-        slug: 'BankFinancial',
+        slug: 'Bank-Financial',
         icon:  SvgBankFinancial,
         id:     60, 
     },
@@ -745,56 +745,56 @@ export const SVG_ICONS =[
 
     {
         name: 'BasketballBallSports',
-        slug: 'BasketballBallSports',
+        slug: 'Basketball-BallSports',
         icon:  SvgBasketballBallSports,
         id:     62, 
     },
 
     {
         name: 'BatteryCharging',
-        slug: 'BatteryCharging',
+        slug: 'Battery-Charging',
         icon:  SvgBatteryCharging,
         id:     63, 
     },
 
     {
         name: 'BatteryEmpty',
-        slug: 'BatteryEmpty',
+        slug: 'Battery-Empty',
         icon:  SvgBatteryEmpty,
         id:     64, 
     },
 
     {
         name: 'BatteryFull',
-        slug: 'BatteryFull',
+        slug: 'Battery-Full',
         icon:  SvgBatteryFull,
         id:     65, 
     },
 
     {
         name: 'BatteryHalf',
-        slug: 'BatteryHalf',
+        slug: 'Battery-Half',
         icon:  SvgBatteryHalf,
         id:     66, 
     },
 
     {
         name: 'BedDoubleHotel',
-        slug: 'BedDoubleHotel',
+        slug: 'Bed-Double-Hotel',
         icon:  SvgBedDoubleHotel,
         id:     67, 
     },
 
     {
         name: 'BedSingleHotel',
-        slug: 'BedSingleHotel',
+        slug: 'Bed-Single-Hotel',
         icon:  SvgBedSingleHotel,
         id:     68, 
     },
 
     {
         name: 'BikerCycle',
-        slug: 'BikerCycle',
+        slug: 'Biker-Cycle',
         icon:  SvgBikerCycle,
         id:     69, 
     },
@@ -808,7 +808,7 @@ export const SVG_ICONS =[
 
     {
         name: 'BluetoothOff',
-        slug: 'BluetoothOff',
+        slug: 'Bluetooth-Off',
         icon:  SvgBluetooth,
         id:     71, 
     },
@@ -822,77 +822,77 @@ export const SVG_ICONS =[
 
     {
         name: 'BookNotePaper',
-        slug: 'BookNotePaper',
+        slug: 'Book-Note-Paper',
         icon:  SvgBookNotePaper,
         id:     73, 
     },
 
     {
         name: 'BookmarkSave',
-        slug: 'BookmarkSave',
+        slug: 'Bookmark-Save',
         icon:  SvgBookmarkSave,
         id:     74, 
     },
 
     {
         name: 'BranchGitFork',
-        slug: 'BranchGitFork',
+        slug: 'Branch-Git-Fork',
         icon:  SvgBranchGitFork,
         id:     75, 
     },
 
     {
         name: 'BrowserChrome',
-        slug: 'BrowserChrome',
+        slug: 'Browser-Chrome',
         icon:  SvgBrowserChrome,
         id:     76, 
     },
 
     {
         name: 'CalculatorComputeMathAlt',
-        slug: 'CalculatorComputeMathAlt',
+        slug: 'Calculator-Compute-Math-Alt',
         icon:  SvgCalculatorComputeMath,
         id:     77, 
     },
 
     {
         name: 'CalculatorComputeMath',
-        slug: 'CalculatorComputeMath',
+        slug: 'Calculator-Compute-Math',
         icon:  SvgCalculatorComputeMathAlt,
         id:     78, 
     },
 
     {
         name: 'CalendarAppointmentDate',
-        slug: 'CalendarAppointmentDate',
+        slug: 'Calendar-Appointment-Date',
         icon:  SvgCalendarAppointmentDate,
         id:     79, 
     },
 
     {
         name: 'CalendarDateAppointmentTime',
-        slug: 'CalendarDateAppointmentTime',
+        slug: 'Calendar-Date-Appointment-Time',
         icon:  SvgCalendarDateAppointmentTime,
         id:     80, 
     },
 
     {
         name: 'CameraApertureCaptureLens',
-        slug: 'CameraApertureCaptureLens',
+        slug: 'Camera-Aperture-Capture-Lens',
         icon:  SvgCameraApertureCaptureLens,
         id:     81, 
     },
 
     {
         name: 'CameraOffPhoto',
-        slug: 'CameraOffPhoto',
+        slug: 'Camera-Off-Photo',
         icon:  SvgCameraOffPhoto,
         id:     82, 
     },
 
     {
         name: 'CameraPhoto',
-        slug: 'CameraPhoto',
+        slug: 'Camera-Photo',
         icon:  SvgCameraPhoto,
         id:     83, 
     },
@@ -906,77 +906,77 @@ export const SVG_ICONS =[
 
     {
         name: 'CaretSortSelectArrowAlt',
-        slug: 'CaretSortSelectArrowAlt',
+        slug: 'Caret-Sort-Select-Arrow-Alt',
         icon:  SvgCaretSortSelectArrow,
         id:     85, 
     },
 
     {
         name: 'CaretSortSelectArrow',
-        slug: 'CaretSortSelectArrow',
+        slug: 'Caret-Sort-Select-Arrow',
         icon:  SvgCaretSortSelectArrowAlt,
         id:     86, 
     },
 
     {
         name: 'Chatbot',
-        slug: 'Chatbot',
+        slug: 'Chat-bot',
         icon:  SvgChatbot,
         id:     87, 
     },
 
     {
         name: 'CheckBox',
-        slug: 'CheckBox',
+        slug: 'Check-Box',
         icon:  SvgCheckBox,
         id:     88, 
     },
 
     {
         name: 'CheckGoodYes',
-        slug: 'CheckGoodYes',
+        slug: 'Check-Good-Yes',
         icon:  SvgCheckGoodYes,
         id:     89, 
     },
 
     {
         name: 'ChevronDownArrow',
-        slug: 'ChevronDownArrow',
+        slug: 'Chevron-Down-Arrow',
         icon:  SvgChevronDownArrow,
         id:     90, 
     },
 
     {
         name: 'ChevronLeftArrow',
-        slug: 'ChevronLeftArrow',
+        slug: 'Chevron-Left-Arrow',
         icon:  SvgChevronLeftArrow,
         id:     91, 
     },
 
     {
         name: 'ChevronRightArrow',
-        slug: 'ChevronRightArrow',
+        slug: 'Chevron-Right-Arrow',
         icon:  SvgChevronRightArrow,
         id:     92, 
     },
 
     {
         name: 'ChevronUpArrow',
-        slug: 'ChevronUpArrow',
+        slug: 'Chevron-Up-Arrow',
         icon:  SvgChevronUpArrow,
         id:     93, 
     },
 
     {
         name: 'ChevronsLeftArrows',
-        slug: 'ChevronsLeftArrows',
+        slug: 'Chevrons-Left-Arrows',
         icon:  SvgChevronsLeftArrows,
         id:     94, 
     },
 
     {
         name: 'ChevronsRightArrows',
-        slug: 'ChevronsRightArrows',
+        slug: 'Chevrons-Right-Arrows',
         icon:  SvgChevronsRightArrows,
         id:     95, 
     },
@@ -990,7 +990,7 @@ export const SVG_ICONS =[
 
     {
         name: 'ClockTime',
-        slug: 'ClockTime',
+        slug: 'Clock-Time',
         icon:  SvgClockTime,
         id:     97, 
     },
@@ -1004,70 +1004,70 @@ export const SVG_ICONS =[
 
     {
         name: 'CodeTechDev',
-        slug: 'CodeTechDev',
+        slug: 'Code-Tech-Dev',
         icon:  SvgCodeTechDev,
         id:     99, 
     },
 
     {
         name: 'CoffeeTeaAlt',
-        slug: 'CoffeeTeaAlt',
+        slug: 'Coffee-Tea-Alt',
         icon:  SvgCoffeeTeaAlt,
         id:     100, 
     },
 
     {
         name: 'CoffeeTea',
-        slug: 'CoffeeTea',
+        slug: 'Coffee-Tea',
         icon:  SvgCoffeeTea,
         id: 101, 
     },
 
     {
         name: 'CommentChatMessageAlt',
-        slug: 'CommentChatMessageAlt',
+        slug: 'Comment-Chat-Message-Alt',
         icon:  SvgCommentChatMessageAlt,
         id:     102, 
     },
 
     {
         name: 'CommentChatMessage',
-        slug: 'CommentChatMessage',
+        slug: 'Comment-Chat-Message',
         icon:  SvgCommentChatMessage,
         id:     103, 
     },
 
     {
         name: 'CommentCircleAltChatMessage',
-        slug: 'CommentCircleAltChatMessage',
+        slug: 'Comment-Circle-Alt-Chat-Message',
         icon:  SvgCommentCircleAltChatMessage,
         id:     104, 
     },
 
     {
         name: 'CommentCircleChatMessage',
-        slug: 'CommentCircleChatMessage',
+        slug: 'Comment-Circle-Chat-Message',
         icon:  SvgCommentCircleChatMessage,
         id:     105, 
     },
 
     {
         name: 'CommentSquareAltChatMessage',
-        slug: 'CommentSquareAltChatMessage',
+        slug: 'Comment-Square-Alt-Chat-Message',
         icon:  SvgCommentSquareAltChatMessage,
         id:     106, 
     },
 
     {
         name: 'CommentSquareChatMessage',
-        slug: 'CommentSquareChatMessage',
+        slug: 'Comment-Square-Chat-Message',
         icon:  SvgCommentSquareChatMessage,
         id:     107, 
     },
 
     {
         name: 'CompressArrowsConverge',
-        slug: 'CompressArrowsConverge',
+        slug: 'Compress-Arrows-Converge',
         icon:  SvgCompressArrowsConverge,
         id:     108, 
     },
@@ -1081,35 +1081,35 @@ export const SVG_ICONS =[
 
     {
         name: 'ConnectLinkCategory',
-        slug: 'ConnectLinkCategory',
+        slug: 'Connect-Link-Category',
         icon:  SvgConnectLinkCategory,
         id:     110, 
     },
 
     {
         name: 'ConnectionSignalWifi',
-        slug: 'ConnectionSignalWifi',
+        slug: 'Connection-Signal-Wifi',
         icon:  SvgConnectionSignalWifi,
         id:     111, 
     },
 
     {
         name: 'CopyDuplicate',
-        slug: 'CopyDuplicate',
+        slug: 'Copy-Duplicate',
         icon:  SvgCopyDuplicate,
         id:     112, 
     },
 
     {
         name: 'CourseDiary',
-        slug: 'CourseDiary',
+        slug: 'Course-Diary',
         icon:  SvgCourseDiary,
         id:     113, 
     },
 
     {
         name: 'CreditCardDebit',
-        slug: 'CreditCardDebit',
+        slug: 'Credit-Card-Debit',
         icon:  SvgCreditCardDebit,
         id:     114, 
     },
@@ -1123,42 +1123,42 @@ export const SVG_ICONS =[
 
     {
         name: 'CrosshairTargetCenterAlt',
-        slug: 'CrosshairTargetCenterAlt',
+        slug: 'Crosshair-Target-Center-Alt',
         icon:  SvgCrosshairTargetCenterAlt,
         id:     116, 
     },
 
     {
         name: 'CrosshairTargetCenter',
-        slug: 'CrosshairTargetCenter',
+        slug: 'Crosshair-Target-Center',
         icon:  SvgCrosshairTargetCenter,
         id:     117, 
     },
 
     {
         name: 'CursorAltPointerMouse',
-        slug: 'CursorAltPointerMouse',
+        slug: 'Cursor-Alt-Pointer-Mouse',
         icon:  SvgCursorAltPointerMouse,
         id:     118, 
     },
 
     {
         name: 'CursorPointerMouse',
-        slug: 'CursorPointerMouse',
+        slug: 'Cursor-Pointer-Mouse',
         icon:  SvgCursorPointerMouse,
         id:     119, 
     },
 
     {
         name: 'CutScissors',
-        slug: 'CutScissors',
+        slug: 'Cut-Scissors',
         icon:  SvgCutScissors,
         id:     120, 
     },
 
     {
         name: 'DataServer',
-        slug: 'DataServer',
+        slug: 'Data-Server',
         icon:  SvgDataServer,
         id:     121, 
     },
@@ -1172,28 +1172,28 @@ export const SVG_ICONS =[
 
     {
         name: 'DesktopComputerMac',
-        slug: 'DesktopComputerMac',
+        slug: 'Desktop-Computer-Mac',
         icon:  SvgDesktopComputerMac,
         id:     123, 
     },
 
     {
         name: 'DesktopMacComputer',
-        slug: 'DesktopMacComputer',
+        slug: 'Desktop-Mac-Computer',
         icon:  SvgDesktopMacComputer,
         id:     124, 
     },
 
     {
         name: 'DiscountPercent',
-        slug: 'DiscountPercent',
+        slug: 'Discount-Percent',
         icon:  SvgDiscountPercent,
         id:     125, 
     },
 
     {
         name: 'DollarCurrency',
-        slug: 'DollarCurrency',
+        slug: 'Dollar-Currency',
         icon:  SvgDollarCurrency,
         id:     126, 
     },
@@ -1207,14 +1207,14 @@ export const SVG_ICONS =[
 
     {
         name: 'DownloadAlt',
-        slug: 'DownloadAlt',
+        slug: 'Download-Alt',
         icon:  SvgDownloadAlt,
         id:     128, 
     },
 
     {
         name: 'DownloadCloud',
-        slug: 'DownloadCloud',
+        slug: 'Download-Cloud',
         icon:  SvgDownloadCloud,
         id:     129, 
     },
@@ -1228,119 +1228,119 @@ export const SVG_ICONS =[
 
     {
         name: 'DragHorizontal',
-        slug: 'DragHorizontal',
+        slug: 'Drag-Horizontal',
         icon:  SvgDragHorizontal,
         id:     131, 
     },
 
     {
         name: 'DragVertical',
-        slug: 'DragVertical',
+        slug: 'Drag-Vertical',
         icon:  SvgDragVertical,
         id:     132, 
     },
 
     {
         name: 'EditWriteAlt',
-        slug: 'EditWriteAlt',
+        slug: 'Edit-Write-Alt',
         icon:  SvgEditWriteAlt,
         id:     133, 
     },
 
     {
         name: 'EditWrite',
-        slug: 'EditWrite',
+        slug: 'Edit-Write',
         icon:  SvgEditWrite,
         id:     134, 
     },
 
     {
         name: 'EducationSchool',
-        slug: 'EducationSchool',
+        slug: 'Education-School',
         icon:  SvgEducationSchool,
         id:     135, 
     },
 
     {
         name: 'EmailMessageInbox',
-        slug: 'EmailMessageInbox',
+        slug: 'Email-Message-Inbox',
         icon:  SvgEmailMessageInbox,
         id:     136, 
     },
 
     {
         name: 'EmojiAngelSmileyHappy',
-        slug: 'EmojiAngelSmileyHappy',
+        slug: 'Emoji-Angel-Smiley-Happy',
         icon:  SvgEmojiAngelSmileyHappy,
         id:     137, 
     },
 
     {
         name: 'EmojiSmileyAngryMad',
-        slug: 'EmojiSmileyAngryMad',
+        slug: 'Emoji-Smiley-Angry-Mad',
         icon:  SvgEmojiSmileyAngryMad,
         id:     138, 
     },
 
     {
         name: 'EmojiSmileyBaby',
-        slug: 'EmojiSmileyBaby',
+        slug: 'Emoji-Smiley-Baby',
         icon:  SvgEmojiSmileyBaby,
         id:     139, 
     },
 
     {
         name: 'EmojiSmileyDizzyHappy',
-        slug: 'EmojiSmileyDizzyHappy',
+        slug: 'Emoji-Smiley-Dizzy-Happy',
         icon:  SvgEmojiSmileyDizzyHappy,
         id:     140, 
     },
 
     {
         name: 'EmojiSmileyHappyFace',
-        slug: 'EmojiSmileyHappyFace',
+        slug: 'Emoji-Smiley-Happy-Face',
         icon:  SvgEmojiSmileyHappyFace,
         id:     141, 
     },
 
     {
         name: 'EmojiSmileyMehSad',
-        slug: 'EmojiSmileyMehSad',
+        slug: 'Emoji-Smiley-Meh-Sad',
         icon:  SvgEmojiSmileyMehSad,
         id:     142, 
     },
 
     {
         name: 'EmojiSmileySadFace',
-        slug: 'EmojiSmileySadFace',
+        slug: 'Emoji-Smiley-Sad-Face',
         icon:  SvgEmojiSmileySadFace,
         id:     143, 
     },
 
     {
         name: 'EmojiSmileySurprisedShockedAmazed',
-        slug: 'EmojiSmileySurprisedShockedAmazed',
+        slug: 'Emoji-Smiley-Surprised-Shocked-Amazed',
         icon:  SvgEmojiSmileySurprisedShockedAmazed,
         id:     144, 
     },
 
     {
         name: 'EmojiSmileyWinkHappy',
-        slug: 'EmojiSmileyWinkHappy',
+        slug: 'Emoji-Smiley-Wink-Happy',
         icon:  SvgEmojiSmileyWinkHappy,
         id:     145, 
     },
 
     {
         name: 'EnterArrowLeft',
-        slug: 'EnterArrowLeft',
+        slug: 'Enter-Arrow-Left',
         icon:  SvgEnterArrowLeft,
         id:     146, 
     },
 
     {
         name: 'EntryLogin',
-        slug: 'EntryLogin',
+        slug: 'Entry-Login',
         icon:  SvgEntryLogin,
         id:     147, 
     },
@@ -1354,77 +1354,77 @@ export const SVG_ICONS =[
 
     {
         name: 'EuroCurrency',
-        slug: 'EuroCurrency',
+        slug: 'Euro-Currency',
         icon:  SvgEuroCurrency,
         id:     149, 
     },
 
     {
         name: 'ExpandArrows',
-        slug: 'ExpandArrows',
+        slug: 'Expand-Arrows',
         icon:  SvgExpandArrows,
         id:     150, 
     },
 
     {
         name: 'EyePasswordHide',
-        slug: 'EyePasswordHide',
+        slug: 'Eye-Password-Hide',
         icon:  SvgEyePasswordHide,
         id:     151, 
     },
 
     {
         name: 'EyePasswordShow',
-        slug: 'EyePasswordShow',
+        slug: 'Eye-Password-Show',
         icon:  SvgEyePasswordShow,
         id:     152, 
     },
 
     {
         name: 'FaceId',
-        slug: 'FaceId',
+        slug: 'Face-Id',
         icon:  SvgFaceId,
         id:     153, 
     },
 
     {
         name: 'FaceMaskAlt2',
-        slug: 'FaceMaskAlt2',
+        slug: 'Face-Mask-Alt2',
         icon:  SvgFaceMaskAlt2,
         id:     154, 
     },
 
     {
         name: 'FaceMaskAlt',
-        slug: 'FaceMaskAlt',
+        slug: 'Face-Mask-Alt',
         icon:  SvgFaceMaskAlt,
         id:     155, 
     },
 
     {
         name: 'FaceMask',
-        slug: 'FaceMask',
+        slug: 'Face-Mask',
         icon:  SvgFaceMask,
         id:     156, 
     },
 
     {
         name: 'FacebookSocial',
-        slug: 'FacebookSocial',
+        slug: 'Facebook-Social',
         icon:  SvgFacebookSocial,
         id:     157, 
     },
 
     {
         name: 'FastFoward',
-        slug: 'FastFoward',
+        slug: 'Fast-Foward',
         icon:  SvgFastFoward,
         id:     158, 
     },
 
     {
         name: 'FilterAlt',
-        slug: 'FilterAlt',
+        slug: 'Filter-Alt',
         icon:  SvgFilterAlt,
         id:     159, 
     },
@@ -1438,35 +1438,35 @@ export const SVG_ICONS =[
 
     {
         name: 'FireTrendHot',
-        slug: 'FireTrendHot',
+        slug: 'Fire-Trend-Hot',
         icon:  SvgFireTrendHot,
         id:     161, 
     },
 
     {
         name: 'FlagCountry',
-        slug: 'FlagCountry',
+        slug: 'Flag-Country',
         icon:  SvgFlagCountry,
         id:     162, 
     },
 
     {
         name: 'FocusCameraPlusAdd',
-        slug: 'FocusCameraPlusAdd',
+        slug: 'Focus-Camera-Plus-Add',
         icon:  SvgFocusCameraPlusAdd,
         id:     163, 
     },
 
     {
         name: 'FolderAddFile',
-        slug: 'FolderAddFile',
+        slug: 'Folde-rAdd-File',
         icon:  SvgFolderAddFile,
         id:     164, 
     },
 
     {
         name: 'FolderFileProject',
-        slug: 'FolderFileProject',
+        slug: 'Folder-File-Project',
         icon:  SvgFolderFileProject,
         id:     165, 
     },
@@ -1480,21 +1480,21 @@ export const SVG_ICONS =[
 
     {
         name: 'FuelGasStation',
-        slug: 'FuelGasStation',
+        slug: 'Fuel-Gas-Station',
         icon:  SvgFuelGasStation,
         id:     167, 
     },
 
     {
         name: 'GenderFemale',
-        slug: 'GenderFemale',
+        slug: 'Gender-Female',
         icon:  SvgGenderFemale,
         id:     168, 
     },
 
     {
         name: 'GenderMale',
-        slug: 'GenderMale',
+        slug: 'Gender-Male',
         icon:  SvgGenderMale,
         id:     169, 
     },
@@ -1515,77 +1515,77 @@ export const SVG_ICONS =[
 
     {
         name: 'GlobeWorldEarth',
-        slug: 'GlobeWorldEarth',
+        slug: 'Globe-World-Earth',
         icon:  SvgGlobeWorldEarth,
         id:     172, 
     },
 
     {
         name: 'HarddriveHarddisk',
-        slug: 'HarddriveHarddisk',
+        slug: 'Harddrive-Harddisk',
         icon:  SvgHarddriveHarddisk,
         id:     173, 
     },
 
     {
         name: 'HashtagTrendingNumber',
-        slug: 'HashtagTrendingNumber',
+        slug: 'Hashtag-Trending-Number',
         icon:  SvgHashtagTrendingNumber,
         id:     174, 
     },
 
     {
         name: 'HeadphoneMusicAlt',
-        slug: 'HeadphoneMusicAlt',
+        slug: 'Headphone-Music-Alt',
         icon:  SvgHeadphoneMusicAlt,
         id:     175, 
     },
 
     {
         name: 'HeadphoneMusic',
-        slug: 'HeadphoneMusic',
+        slug: 'Headphone-Music',
         icon:  SvgHeadphoneMusic,
         id:     176, 
     },
 
     {
         name: 'HealthCrossFirstaid',
-        slug: 'HealthCrossFirstaid',
+        slug: 'Health-Cross-Firstaid',
         icon:  SvgHealthCrossFirstaid,
         id:     177, 
     },
 
     {
         name: 'HeartLoveLike',
-        slug: 'HeartLoveLike',
+        slug: 'Heart-Love-Like',
         icon:  SvgHeartLoveLike,
         id:     178, 
     },
 
     {
         name: 'HelpQuestion',
-        slug: 'HelpQuestion',
+        slug: 'Help-Question',
         icon:  SvgHelpQuestion,
         id:     179, 
     },
 
     {
         name: 'HomeHouse',
-        slug: 'HomeHouse',
+        slug: 'Home-House',
         icon:  SvgHomeHouse,
         id:     180, 
     },
 
     {
         name: 'HospitalClinic',
-        slug: 'HospitalClinic',
+        slug: 'Hospital-Clinic',
         icon:  SvgHospitalClinic,
         id:     181, 
     },
 
     {
         name: 'InboxMail',
-        slug: 'InboxMail',
+        slug: 'Inbox-Mail',
         icon:  SvgInboxMail,
         id:     182, 
     },
@@ -1599,28 +1599,28 @@ export const SVG_ICONS =[
 
     {
         name: 'InstagramSocial',
-        slug: 'InstagramSocial',
+        slug: 'Instagram-Social',
         icon:  SvgInstagramSocial,
         id:     184, 
     },
 
     {
         name: 'LaptopComputer',
-        slug: 'LaptopComputer',
+        slug: 'Laptop-Computer',
         icon:  SvgLaptopComputer,
         id:     185, 
     },
 
     {
         name: 'LaunchLinkOpen',
-        slug: 'LaunchLinkOpen',
+        slug: 'Launch-Link-Open',
         icon:  SvgLaunchLinkOpen,
         id:     186, 
     },
 
     {
         name: 'LightningEnergy',
-        slug: 'LightningEnergy',
+        slug: 'Lightning-Energy',
         icon:  SvgLightningEnergy,
         id:     187, 
     },
@@ -1634,175 +1634,175 @@ export const SVG_ICONS =[
 
     {
         name: 'LinkedinSocial',
-        slug: 'LinkedinSocial',
+        slug: 'Linkedin-Social',
         icon:  SvgLinkedinSocial,
         id:     189, 
     },
 
     {
         name: 'LoadingSpinner',
-        slug: 'LoadingSpinner',
+        slug: 'Loading-Spinner',
         icon:  SvgLoadingSpinner,
         id:     190, 
     },
 
     {
         name: 'LocationPinAlt',
-        slug: 'LocationPinAlt',
+        slug: 'Location-Pin-Alt',
         icon:  SvgLocationPinAlt,
         id:     191, 
     },
 
     {
         name: 'LocationPin',
-        slug: 'LocationPin',
+        slug: 'Location-Pin',
         icon:  SvgLocationPin,
         id:     192, 
     },
 
     {
         name: 'LockOpen',
-        slug: 'LockOpen',
+        slug: 'Lock-Open',
         icon:  SvgLockOpen,
         id:     193, 
     },
 
     {
         name: 'LockPrivacy',
-        slug: 'LockPrivacy',
+        slug: 'Lock-Privacy',
         icon:  SvgLockPrivacy,
         id:     194, 
     },
 
     {
         name: 'LogoutExit',
-        slug: 'LogoutExit',
+        slug: 'Logout-Exit',
         icon:  SvgLogoutExit,
         id:     195, 
     },
 
     {
         name: 'MagicWand',
-        slug: 'MagicWand',
+        slug: 'Magic-Wand',
         icon:  SvgMagicWand,
         id:     196, 
     },
 
     {
         name: 'MapLocation',
-        slug: 'MapLocation',
+        slug: 'Map-Location',
         icon:  SvgMapLocation,
         id:     197, 
     },
 
     {
         name: 'MarkerCreatePen',
-        slug: 'MarkerCreatePen',
+        slug: 'Marker-Create-Pen',
         icon:  SvgMarkerCreatePen,
         id:     198, 
     },
 
     {
         name: 'MastercardCreditDebit',
-        slug: 'MastercardCreditDebit',
+        slug: 'Mastercard-Credit-Debit',
         icon:  SvgMastercardCreditDebit,
         id:     199, 
     },
 
     {
         name: 'MaximizeExpand',
-        slug: 'MaximizeExpand',
+        slug: 'Maximize-Expand',
         icon:  SvgMaximizeExpand,
         id:     200, 
     },
 
     {
         name: 'MedalWinnerGold',
-        slug: 'MedalWinnerGold',
+        slug: 'Medal-Winner-Gold',
         icon:  SvgMedalWinnerGold,
         id:     201, 
     },
 
     {
         name: 'MediaCast',
-        slug: 'MediaCast',
+        slug: 'Media-Cast',
         icon:  SvgMediaCast,
         id:     202, 
     },
 
     {
         name: 'MenuHambuger',
-        slug: 'MenuHambuger',
+        slug: 'Menu-Hambuger',
         icon:  SvgMenuHambuger,
         id:     203, 
     },
 
     {
         name: 'MicrophoneMusicTalk',
-        slug: 'MicrophoneMusicTalk',
+        slug: 'Microphone-Music-Talk',
         icon:  SvgMicrophoneMusicTalk,
         id:     204, 
     },
 
     {
         name: 'MicrophoneOffMusicTalk',
-        slug: 'MicrophoneOffMusicTalk',
+        slug: 'Microphone-Off-Music-Talk',
         icon:  SvgMicrophoneOffMusicTalk,
         id:     205, 
     },
 
     {
         name: 'MinimizeCollapse',
-        slug: 'MinimizeCollapse',
+        slug: 'Minimize-Collapse',
         icon:  SvgMinimizeCollapse,
         id:     206, 
     },
 
     {
         name: 'MobilePhone',
-        slug: 'MobilePhone',
+        slug: 'Mobile-Phone',
         icon:  SvgMobilePhone,
         id:     207, 
     },
 
     {
         name: 'ModelDiamond',
-        slug: 'ModelDiamond',
+        slug: 'Model-Diamond',
         icon:  SvgModelDiamond,
         id:     208, 
     },
 
     {
         name: 'MoneyAltCashCurrency',
-        slug: 'MoneyAltCashCurrency',
+        slug: 'Money-Alt-Cash-Currency',
         icon:  SvgMoneyAltCashCurrency,
         id:     209, 
     },
 
     {
         name: 'MoneyCashCurrency',
-        slug: 'MoneyCashCurrency',
+        slug: 'Money-Cash-Currency',
         icon:  SvgMoneyCashCurrency,
         id:     210, 
     },
 
     {
         name: 'MoonNight',
-        slug: 'MoonNight',
+        slug: 'Moon-Night',
         icon:  SvgMoonNight,
         id:     211, 
     },
 
     {
         name: 'MoreHorizontal',
-        slug: 'MoreHorizontal',
+        slug: 'More-Horizontal',
         icon:  SvgMoreHorizontal,
         id:     212, 
     },
 
     {
         name: 'MoreVertical',
-        slug: 'MoreVertical',
+        slug: 'More-Vertical',
         icon:  SvgMoreVertical,
         id:     213, 
     },
@@ -1816,56 +1816,56 @@ export const SVG_ICONS =[
 
     {
         name: 'MusicNote',
-        slug: 'MusicNote',
+        slug: 'Music-Note',
         icon:  SvgMusicNote,
         id:     215, 
     },
 
     {
         name: 'NairaCurrencyMoney',
-        slug: 'NairaCurrencyMoney',
+        slug: 'Naira-Currency-Money',
         icon:  SvgNairaCurrencyMoney,
         id:     216, 
     },
 
     {
         name: 'NextArrowForward',
-        slug: 'NextArrowForward',
+        slug: 'Next-Arrow-Forward',
         icon:  SvgNextArrowForward,
         id:     217, 
     },
 
     {
         name: 'NotificationBellAlarm',
-        slug: 'NotificationBellAlarm',
+        slug: 'Notification-Bell-Alarm',
         icon:  SvgNotificationBellAlarm,
         id:     218, 
     },
 
     {
         name: 'NotificationOffBellAlarm',
-        slug: 'NotificationOffBellAlarm',
+        slug: 'Notification-Off-Bell-Alarm',
         icon:  SvgNotificationOffBellAlarm,
         id:  219, 
     },
 
     {
         name: 'PaperFileText',
-        slug: 'PaperFileText',
+        slug: 'Paper-File-Text',
         icon:  SvgPaperFileText,
         id:     220, 
     },
 
     {
         name: 'PaperFile',
-        slug: 'PaperFile',
+        slug: 'Paper-File',
         icon:  SvgPaperFile,
         id:     221, 
     },
 
     {
         name: 'PaperNote',
-        slug: 'PaperNote',
+        slug: 'Paper-Note',
         icon:  SvgPaperNote,
         id:     222, 
     },
@@ -1886,21 +1886,21 @@ export const SVG_ICONS =[
 
     {
         name: 'PhoneCall',
-        slug: 'PhoneCall',
+        slug: 'Phone-Call',
         icon:  SvgPhoneCall,
         id:     225, 
     },
 
     {
         name: 'PhotoImagePicture',
-        slug: 'PhotoImagePicture',
+        slug: 'Photo-Image-Picture',
         icon:  SvgPhotoImagePicture,
         id:     226, 
     },
 
     {
         name: 'PieChart',
-        slug: 'PieChart',
+        slug: 'Pie-Chart',
         icon:  SvgPieChart,
         id:     227, 
     },
@@ -1914,7 +1914,7 @@ export const SVG_ICONS =[
 
     {
         name: 'PlanetSaturnSpace',
-        slug: 'PlanetSaturnSpace',
+        slug: 'Planet-Saturn-Space',
         icon:  SvgPlanetSaturnSpace,
         id:     229, 
     },
@@ -1928,21 +1928,21 @@ export const SVG_ICONS =[
 
     {
         name: 'PlugConnect',
-        slug: 'PlugConnect',
+        slug: 'Plug-Connect',
         icon:  SvgPlugConnect,
         id:     231, 
     },
 
     {
         name: 'PoundCurrencyMoney',
-        slug: 'PoundCurrencyMoney',
+        slug: 'Pound-Currency-Money',
         icon:  SvgPoundCurrencyMoney,
         id:     232, 
     },
 
     {
         name: 'PreviousArrowBackward',
-        slug: 'PreviousArrowBackward',
+        slug: 'Previous-Arrow-Backward',
         icon:  SvgPreviousArrowBackward,
         id:     233, 
     },
@@ -1963,14 +1963,14 @@ export const SVG_ICONS =[
 
     {
         name: 'RainCloudWeather',
-        slug: 'RainCloudWeather',
+        slug: 'Rain-Cloud-Weather',
         icon:  SvgRainCloudWeather,
         id:     236, 
     },
 
     {
         name: 'ReceiptPayment',
-        slug: 'ReceiptPayment',
+        slug: 'Receipt-Payment',
         icon:  SvgReceiptPayment,
         id:     237, 
     },
@@ -1984,7 +1984,7 @@ export const SVG_ICONS =[
 
     {
         name: 'ReplyAll',
-        slug: 'ReplyAll',
+        slug: 'Reply-All',
         icon:  SvgReplyAll,
         id:     239, 
     },
@@ -2005,28 +2005,28 @@ export const SVG_ICONS =[
 
     {
         name: 'RightTurnArrow',
-        slug: 'RightTurnArrow',
+        slug: 'Right-Turn-Arrow',
         icon:  SvgRightTurnArrow,
         id:     242, 
     },
 
     {
         name: 'RoadmapTimeline',
-        slug: 'RoadmapTimeline',
+        slug: 'Roadmap-Timeline',
         icon:  SvgRoadmapTimeline,
         id:     243, 
     },
 
     {
         name: 'RocketLaunch',
-        slug: 'RocketLaunch',
+        slug: 'Rocket-Launch',
         icon:  SvgRocketLaunch,
         id:     244, 
     },
 
     {
         name: 'SaveAlt',
-        slug: 'SaveAlt',
+        slug: 'Save-Alt',
         icon:  SvgSaveAlt,
         id:     245, 
     },
@@ -2047,84 +2047,84 @@ export const SVG_ICONS =[
 
     {
         name: 'SecurityPasswordKey',
-        slug: 'SecurityPasswordKey',
+        slug: 'Security-Password-Key',
         icon:  SvgSecurityPasswordKey,
         id:     248, 
     },
 
     {
         name: 'SecurityShieldAlt',
-        slug: 'SecurityShieldAlt',
+        slug: 'Security-Shield-Alt',
         icon:  SvgSecurityShieldAlt,
         id:     249, 
     },
 
     {
         name: 'SecurityShieldPrivacyBad',
-        slug: 'SecurityShieldPrivacyBad',
+        slug: 'Security-Shield-Privacy-Bad',
         icon:  SvgSecurityShieldPrivacyBad,
         id:     250, 
     },
 
     {
         name: 'SecurityShield',
-        slug: 'SecurityShield',
+        slug: 'Security-Shield',
         icon:  SvgSecurityShield,
         id:     251, 
     },
 
     {
         name: 'SendMessageDm',
-        slug: 'SendMessageDm',
+        slug: 'Send-Message-Dm',
         icon:  SvgSendMessageDm,
         id:     252, 
     },
 
     {
         name: 'SettingsAccountMore',
-        slug: 'SettingsAccountMore',
+        slug: 'Settings-Account-More',
         icon:  SvgSettingsAccountMore,
         id:     253, 
     },
 
     {
         name: 'ShareAlt',
-        slug: 'ShareAlt',
+        slug: 'Share-Alt',
         icon:  SvgShareAlt,
         id:     254, 
     },
 
     {
         name: 'ShopStore',
-        slug: 'ShopStore',
+        slug: 'Shop-Store',
         icon:  SvgShopStore,
         id:     255, 
     },
 
     {
         name: 'ShoppingAltBag',
-        slug: 'ShoppingAltBag',
+        slug: 'Shopping-Alt-Bag',
         icon:  SvgShoppingAltBag,
         id:     256, 
     },
 
     {
         name: 'ShoppingBag',
-        slug: 'ShoppingBag',
+        slug: 'Shopping-Bag',
         icon:  SvgShoppingBag,
         id:     257, 
     },
 
     {
         name: 'ShoppingCart',
-        slug: 'ShoppingCart',
+        slug: 'Shopping-Cart',
         icon:  SvgShoppingCart,
         id:     258, 
     },
 
     {
         name: 'ShuffleAlt',
-        slug: 'ShuffleAlt',
+        slug: 'Shuffle-Alt',
         icon:  SvgShuffleAlt,
         id:     259, 
     },
@@ -2138,42 +2138,42 @@ export const SVG_ICONS =[
 
     {
         name: 'SketchDiamond',
-        slug: 'SketchDiamond',
+        slug: 'Sketch-Diamond',
         icon:  SvgSketchDiamond,
         id:     261, 
     },
 
     {
         name: 'SnapchatSocial',
-        slug: 'SnapchatSocial',
+        slug: 'Snapchat-Social',
         icon:  SvgSnapchatSocial,
         id:     262, 
     },
 
     {
         name: 'SnowflakesWeatherCold',
-        slug: 'SnowflakesWeatherCold',
+        slug: 'Snow-flakes-Weather-Cold',
         icon:  SvgSnowflakesWeatherCold,
         id:     263, 
     },
 
     {
         name: 'SparkleStar',
-        slug: 'SparkleStar',
+        slug: 'Sparkle-Star',
         icon:  SvgSparkleStar,
         id:     264, 
     },
 
     {
         name: 'SquareBoxUncheck',
-        slug: 'SquareBoxUncheck',
+        slug: 'Square-Box-Uncheck',
         icon:  SvgSquareBoxUncheck,
         id:     265, 
     },
 
     {
         name: 'StarRatings',
-        slug: 'StarRatings',
+        slug: 'Star-Ratings',
         icon:  SvgStarRatings,
         id:     266, 
     },
@@ -2187,21 +2187,21 @@ export const SVG_ICONS =[
 
     {
         name: 'SubtractCircleMinusRemove',
-        slug: 'SubtractCircleMinusRemove',
+        slug: 'Subtract-Circle-Minus-Remove',
         icon:  SvgSubtractCircleMinusRemove,
         id:     268, 
     },
 
     {
         name: 'SubtractMinusRemove',
-        slug: 'SubtractMinusRemove',
+        slug: 'Subtract-Minus-Remove',
         icon:  SvgSubtractMinusRemove,
         id:     269, 
     },
 
     {
         name: 'SunDay',
-        slug: 'SunDay',
+        slug: 'Sun-Day',
         icon:  SvgSunDay,
         id:     270, 
     },
@@ -2215,98 +2215,98 @@ export const SVG_ICONS =[
 
     {
         name: 'TagPriceDiscount',
-        slug: 'TagPriceDiscount',
+        slug: 'Tag-Price-Discount',
         icon:  SvgTagPriceDiscount,
         id:     272, 
     },
 
     {
         name: 'TheaterMask',
-        slug: 'TheaterMask',
+        slug: 'Theater-Mask',
         icon:  SvgTheaterMask,
         id:     273, 
     },
 
     {
         name: 'ThumbsDown',
-        slug: 'ThumbsDown',
+        slug: 'Thumbs-Down',
         icon:  SvgThumbsDown,
         id:     274, 
     },
 
     {
         name: 'ThumbsUp',
-        slug: 'ThumbsUp',
+        slug: 'Thumbs-Up',
         icon:  SvgThumbsUp,
         id:     275, 
     },
 
     {
         name: 'ThunderstormWeather',
-        slug: 'ThunderstormWeather',
+        slug: 'Thunder-storm-Weather',
         icon:  SvgThunderstormWeather,
         id:     276, 
     },
 
     {
         name: 'TicketPass',
-        slug: 'TicketPass',
+        slug: 'Ticket-Pass',
         icon:  SvgTicketPass,
         id:     277, 
     },
 
     {
         name: 'TiktokSocial',
-        slug: 'TiktokSocial',
+        slug: 'Tiktok-Social',
         icon:  SvgTiktokSocial,
         id:     278, 
     },
 
     {
         name: 'ToogleLeft',
-        slug: 'ToogleLeft',
+        slug: 'Toogle-Left',
         icon:  SvgToogleLeft,
         id:     279, 
     },
 
     {
         name: 'ToogleRight',
-        slug: 'ToogleRight',
+        slug: 'Toogle-Right',
         icon: SvgToogleRight,
         id:  280, 
     },
 
     {
         name: 'TramTrainTransport',
-        slug: 'TramTrainTransport',
+        slug: 'Tram-Train-Transport',
         icon:  SvgTramTrainTransport,
         id:     281, 
     },
 
     {
         name: 'TrashAltDeleteBin',
-        slug: 'TrashAltDeleteBin',
+        slug: 'Trash-Alt-Delete-Bin',
         icon:  SvgTrashAltDeleteBin,
         id:     282, 
     },
 
     {
         name: 'TrashDeleteBin',
-        slug: 'TrashDeleteBin',
+        slug: 'Trash-Delete-Bin',
         icon:  SvgTrashDeleteBin,
         id:     283, 
     },
 
     {
         name: 'TwitterSocialTweet',
-        slug: 'TwitterSocialTweet',
+        slug: 'Twitter-Social-Tweet',
         icon:  SvgTwitterSocialTweet,
         id:     284, 
     },
 
     {
         name: 'UmbrellaInsurance',
-        slug: 'UmbrellaInsurance',
+        slug: 'Umbrella-Insurance',
         icon:  SvgUmbrellaInsurance,
         id:     285, 
     },
@@ -2320,28 +2320,28 @@ export const SVG_ICONS =[
 
     {
         name: 'UpTurnArrow',
-        slug: 'UpTurnArrow',
+        slug: 'Up-Turn-Arrow',
         icon:  SvgUpTurnArrow,
         id:     287, 
     },
 
     {
         name: 'UploadAlt',
-        slug: 'UploadAlt',
+        slug: 'Upload-Alt',
         icon:  SvgUploadAlt,
         id:     288, 
     },
 
     {
         name: 'UploadCloud',
-        slug: 'UploadCloud',
+        slug: 'Upload-Cloud',
         icon:  SvgUploadCloud,
         id:     289, 
     },
 
     {
         name: 'UploadShare',
-        slug: 'UploadShare',
+        slug: 'Upload-Share',
         icon:  SvgUploadShare,
         id:     290, 
     },
@@ -2355,56 +2355,56 @@ export const SVG_ICONS =[
 
     {
         name: 'UserAccountProfile',
-        slug: 'UserAccountProfile',
+        slug: 'User-Account-Profile',
         icon:  SvgUserAccountProfile,
         id:     292, 
     },
 
     {
         name: 'UserAddAccountProfile',
-        slug: 'UserAddAccountProfile',
+        slug: 'User-Add-Account-Profile',
         icon:  SvgUserAddAccountProfile,
         id:     293, 
     },
 
     {
         name: 'UserGroupAccounts',
-        slug: 'UserGroupAccounts',
+        slug: 'User-Group-Accounts',
         icon:  SvgUserGroupAccounts,
         id:     294, 
     },
 
     {
         name: 'UserRemoveAccountProfile',
-        slug: 'UserRemoveAccountProfile',
+        slug: 'User-Remove-Account-Profile',
         icon:  SvgUserRemoveAccountProfile,
         id:     295, 
     },
 
     {
         name: 'VideoCameraMedia',
-        slug: 'VideoCameraMedia',
+        slug: 'Video-Camera-Media',
         icon:  SvgVideoCameraMedia,
         id:     296, 
     },
 
     {
         name: 'VolumeDown',
-        slug: 'VolumeDown',
+        slug: 'Volume-Down',
         icon:  SvgVolumeDown,
         id:     297, 
     },
 
     {
         name: 'VolumeDown',
-        slug: 'VolumeMute',
+        slug: 'Volume-Mute',
         icon:  SvgVolumeMute,
         id:     298, 
     },
 
     {
         name: 'VolumeUp',
-        slug: 'VolumeUp',
+        slug: 'Volume-Up',
         icon:  SvgVolumeUp,
         id:     299, 
     },
@@ -2425,84 +2425,84 @@ export const SVG_ICONS =[
 
     {
         name: 'WifiConnection',
-        slug: 'WifiConnection',
+        slug: 'Wifi-Connection',
         icon:  SvgWifiConnection,
         id:     302, 
     },
 
     {
         name: 'WifiOffConnection',
-        slug: 'WifiOffConnection',
+        slug: 'Wifi-Off-Connection',
         icon:  SvgWifiOffConnection,
         id:     303, 
     },
 
     {
         name: 'WorkAltBag',
-        slug: 'WorkAltBag',
+        slug: 'Work-Alt-Bag',
         icon:  SvgWorkAltBag,
         id:     304, 
     },
 
     {
         name: 'WorkBag',
-        slug: 'WorkBag',
+        slug: 'Work-Bag',
         icon:  SvgWorkBag,
         id:     305, 
     },
 
     {
         name: 'XCircleCloseDelete',
-        slug: 'XCircleCloseDelete',
+        slug: 'X-Circle-Close-Delete',
         icon:  SvgXCircleCloseDelete,
         id:     306, 
     },
 
     {
         name: 'XCloseDelete',
-        slug: 'XCloseDelete',
+        slug: 'X-Close-Delete',
         icon:  SvgXCloseDelete,
         id:     307, 
     },
 
     {
         name: 'XOctagonError',
-        slug: 'XOctagonError',
+        slug: 'X-Octagon-Error',
         icon:  SvgXOctagonError,
         id:     308, 
     },
 
     {
         name: 'XSquareCloseDelete',
-        slug: 'XSquareCloseDelete',
+        slug: 'X-Square-Close-Delete',
         icon:  SvgXSquareCloseDelete,
         id:     309, 
     },
 
     {
         name: 'YoutubeVideo',
-        slug: 'YoutubeVideo',
+        slug: 'Youtube-Video',
         icon:  SvgYoutubeVideo,
         id:     310, 
     },
 
     {
         name: 'YuanCurrencyMoney',
-        slug: 'YuanCurrencyMoney',
+        slug: 'Yuan-Currency-Money',
         icon:  SvgYuanCurrencyMoney,
         id:     311, 
     },
 
     {
         name: 'ZoomIn',
-        slug: 'ZoomIn',
+        slug: 'Zoom-In',
         icon:  SvgZoomIn,
         id: 312, 
     },
 
     {
         name: 'ZoomOut',
-        slug: 'ZoomOut',
+        slug: 'Zoom-Out',
         icon:  SvgZoomOut,
         id:     313, 
     },

@@ -2,16 +2,16 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 65%;
-    height: 100%;
+    width: 75%;
+    height: auto;
     /* overflow-y: scroll; */
     /* min-height: 100vh; */
     /* background-color: #ff9889; */
 }
 .vertical-line {
     border-left: 1px solid #dcdcdc;
-    height: 170vh;
+    height: 598vh;
     position: absolute;
-    left: 65%;
+    left: 75%;
     top: 0;
 }

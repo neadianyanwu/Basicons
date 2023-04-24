@@ -1,3 +1,10 @@
+.hero {
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    gap: 40px;
+}
+
 .hero .hero-content {
     width: 68vw;
     margin: 30px;
@@ -15,14 +22,26 @@
     font-weight: 300;
     padding: 6px 8px;
     line-height: 1.2;
-    width: 57vw;
-    margin-right: 100px;
+    width: 53vw;
+    margin-right: -13px;
 }
 
 .hero .hero-content p {
-    font-size: 20px;
+    /* font-size: 20px;
     color: #333;
-    font-weight: 300;
+    font-weight: 300; */
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    font-size: 18px;
+    gap: 24px;
+    text-align: center;
+    align-items: center;
+    list-style-position: inside;
+    color: rgba(0,0,0,0.65);
+    list-style: none;
 }
 
 .download-button {
@@ -69,6 +88,7 @@ a {
     justify-content: center;
     align-items: center;
     flex-wrap: wrap;
+    gap: 16px;
 }
 
 .hero-content .hero .download-button .button1 {
@@ -81,8 +101,12 @@ a {
 @media screen and (max-width: 660px) {
     .hero {
         width: 100%;
-        padding: 10px 10px;
-        gap: 36px;
+        gap: 20px;    
+    }
+
+    .hero .hero-content h1 {
+        font-size: 24px;
+        width: 276px;
     }
 
     .button-container {

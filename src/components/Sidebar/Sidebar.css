@@ -2,10 +2,12 @@
     display: flex;
     /* justify-content: center; */
     /* align-items: center; */
-    width: 35%;
-    height: 100%;
+    width: 25%;
+    height: auto;
     /* overflow-y: auto; */
     /* min-height: 100vh; */
     /* background-color: #ffcba4; */
+    position: fixed;
+    right: 0;
 }
     

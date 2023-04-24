@@ -14,7 +14,7 @@
 
 /* Section: Body */
 body {
-    background-color: #faf9f6;
+    background-color: #fff;
     color: #333;
     /* min-height: 100vh; */
 }
@@ -23,4 +23,10 @@ body {
 .dark-mode {
     background-color: #333;
     color: #faf9f6;
+}
+
+@media screen and (max-width: 600px){
+.content.jsx-1625493153 {
+    max-width: 100vw;
+}
 }

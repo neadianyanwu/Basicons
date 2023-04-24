@@ -1,11 +1,13 @@
 import { useState } from "react";
 import "./NavBar.css";
+ 
 
 import Hero from "../HeroSection/Hero";
 import SearchBar from "../SearchBarSection/SearchBar";
 import MainFooter from "../MainFooter Section/MainFooter";
 import { SVG_ICONS } from "../../ExportIcons Section/ExportIcons";
 import { getSubStringName } from "../../utils";
+import "../../ExportIcons Section/ExportIcons.css";
 
 
 

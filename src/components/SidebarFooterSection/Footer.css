@@ -18,26 +18,3 @@ p {
     opacity: 0.45;
 }
 
-.basicons-menu {
-    display: flex;
-    flex-direction: column;
-    color: #333;
-    background-color: #dcdcdc;
-    font-size: 16px;
-    font-weight: 300;
-    justify-content: space-between;
-    align-items: center;
-    margin-left: auto;
-    width: 100%;
-}
-
-@media screen and (max-width: 328px) {
-    .basicons-menu {
-        position: fixed;
-        background: #dcdcdc;
-        height: 50vh;
-        width: 100%;
-        flex-direction: column;
-        display: none;
-    }
-}
