@@ -25,7 +25,7 @@ const Size = () => {
           </li>
         </ul>
         </nav>
-        <nav>
+        <nav className="container">
         <h4 className="size-header">Stroke</h4>
         <ul className="label">
           <li className="active">

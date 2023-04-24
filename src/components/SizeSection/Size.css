@@ -73,3 +73,10 @@ ul li.active a {
     width: 200%;
     border-bottom: 1px solid gray;
 } */
+
+@media screen and (max-width: 600px) {
+    .continer .label {
+        flex-direction: row;
+        display: flex;
+    }
+}
